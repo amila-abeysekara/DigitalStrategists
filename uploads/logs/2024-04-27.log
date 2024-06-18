@@ -1,0 +1,81 @@
+[27-Apr-2024 09:31:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in C:\xampp\htdocs\product\app\models\Settings.php:24
+Stack trace:
+#0 C:\xampp\htdocs\product\app\core\Settings.php(17): Altum\Models\Settings->get()
+#1 C:\xampp\htdocs\product\app\helpers\core.php(12): Altum\Settings::initialize()
+#2 C:\xampp\htdocs\product\app\core\Language.php(51): settings()
+#3 C:\xampp\htdocs\product\app\core\App.php(29): Altum\Language::initialize()
+#4 C:\xampp\htdocs\product\index.php(20): Altum\App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\product\app\models\Settings.php on line 24
+[27-Apr-2024 09:31:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in C:\xampp\htdocs\product\app\models\Settings.php:24
+Stack trace:
+#0 C:\xampp\htdocs\product\app\core\Settings.php(17): Altum\Models\Settings->get()
+#1 C:\xampp\htdocs\product\app\helpers\core.php(12): Altum\Settings::initialize()
+#2 C:\xampp\htdocs\product\app\core\Language.php(51): settings()
+#3 C:\xampp\htdocs\product\app\core\App.php(29): Altum\Language::initialize()
+#4 C:\xampp\htdocs\product\index.php(20): Altum\App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\product\app\models\Settings.php on line 24
+[27-Apr-2024 09:31:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in C:\xampp\htdocs\product\app\models\Settings.php:24
+Stack trace:
+#0 C:\xampp\htdocs\product\app\core\Settings.php(17): Altum\Models\Settings->get()
+#1 C:\xampp\htdocs\product\app\helpers\core.php(12): Altum\Settings::initialize()
+#2 C:\xampp\htdocs\product\app\core\Language.php(51): settings()
+#3 C:\xampp\htdocs\product\app\core\App.php(29): Altum\Language::initialize()
+#4 C:\xampp\htdocs\product\index.php(20): Altum\App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\product\app\models\Settings.php on line 24
+[27-Apr-2024 09:32:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in C:\xampp\htdocs\product\app\models\Settings.php:24
+Stack trace:
+#0 C:\xampp\htdocs\product\app\core\Settings.php(17): Altum\Models\Settings->get()
+#1 C:\xampp\htdocs\product\app\helpers\core.php(12): Altum\Settings::initialize()
+#2 C:\xampp\htdocs\product\app\core\Language.php(51): settings()
+#3 C:\xampp\htdocs\product\app\core\App.php(29): Altum\Language::initialize()
+#4 C:\xampp\htdocs\product\index.php(20): Altum\App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\product\app\models\Settings.php on line 24
+[27-Apr-2024 09:38:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in C:\xampp\htdocs\product\app\models\Settings.php:24
+Stack trace:
+#0 C:\xampp\htdocs\product\app\core\Settings.php(17): Altum\Models\Settings->get()
+#1 C:\xampp\htdocs\product\app\helpers\core.php(12): Altum\Settings::initialize()
+#2 C:\xampp\htdocs\product\app\core\Language.php(51): settings()
+#3 C:\xampp\htdocs\product\app\core\App.php(29): Altum\Language::initialize()
+#4 C:\xampp\htdocs\product\index.php(20): Altum\App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\product\app\models\Settings.php on line 24
+[27-Apr-2024 09:45:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in C:\xampp\htdocs\product\app\models\Settings.php:24
+Stack trace:
+#0 C:\xampp\htdocs\product\app\core\Settings.php(17): Altum\Models\Settings->get()
+#1 C:\xampp\htdocs\product\app\helpers\core.php(12): Altum\Settings::initialize()
+#2 C:\xampp\htdocs\product\app\core\Language.php(51): settings()
+#3 C:\xampp\htdocs\product\app\core\App.php(29): Altum\Language::initialize()
+#4 C:\xampp\htdocs\product\index.php(20): Altum\App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\product\app\models\Settings.php on line 24
+[27-Apr-2024 09:45:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in C:\xampp\htdocs\product\app\models\Settings.php:24
+Stack trace:
+#0 C:\xampp\htdocs\product\app\core\Settings.php(17): Altum\Models\Settings->get()
+#1 C:\xampp\htdocs\product\app\helpers\core.php(12): Altum\Settings::initialize()
+#2 C:\xampp\htdocs\product\app\core\Language.php(51): settings()
+#3 C:\xampp\htdocs\product\app\core\App.php(29): Altum\Language::initialize()
+#4 C:\xampp\htdocs\product\index.php(20): Altum\App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\product\app\models\Settings.php on line 24
+[27-Apr-2024 09:46:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in C:\xampp\htdocs\product\app\models\Settings.php:24
+Stack trace:
+#0 C:\xampp\htdocs\product\app\core\Settings.php(17): Altum\Models\Settings->get()
+#1 C:\xampp\htdocs\product\app\helpers\core.php(12): Altum\Settings::initialize()
+#2 C:\xampp\htdocs\product\app\core\Language.php(51): settings()
+#3 C:\xampp\htdocs\product\app\core\App.php(29): Altum\Language::initialize()
+#4 C:\xampp\htdocs\product\index.php(20): Altum\App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\product\app\models\Settings.php on line 24
+[27-Apr-2024 09:46:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in C:\xampp\htdocs\product\app\models\Settings.php:24
+Stack trace:
+#0 C:\xampp\htdocs\product\app\core\Settings.php(17): Altum\Models\Settings->get()
+#1 C:\xampp\htdocs\product\app\helpers\core.php(12): Altum\Settings::initialize()
+#2 C:\xampp\htdocs\product\app\core\Language.php(51): settings()
+#3 C:\xampp\htdocs\product\app\core\App.php(29): Altum\Language::initialize()
+#4 C:\xampp\htdocs\product\index.php(20): Altum\App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\product\app\models\Settings.php on line 24
